@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Jin Chen / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jin Chen"
-description              : &description "a master student in Xi’an Jiaotong University"
+description              : &description "a phd student in SSI & Fudan University"
 url                      : https://dunknsabsw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dunknsabsw/dunknsabsw.github.io"
+repository               : "https://sii-jinchen.github.io/cv"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Jin Chen (陈晋) "
   pronouns         : # example: "she/her"  
-  bio              : "Master Student in Xi'an Jiaotong University"
-  location         : "China Beijing"
+  bio              : "Phd Student in SSI & Fudan University"
+  location         : "China Shanghai"
   employer         : 
   uri              : # URL
   email            : "cj65000816081@gmail.com" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "dunknsabsw"
+  github           : "SII-JinChen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
